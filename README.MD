@@ -1,30 +1,4 @@
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="300"
-/>
-</p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
-<a href="https://dio.me/">
-<img 
-    src="https://img.shields.io/badge/🔴_LIVE_CODE-FF5E72" 
-    alt="🔴 LIVE CODE">
-</a>
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -49,51 +23,23 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
-## 📚 Materiais
+## 📚 Roteiro 
+Roteiro para o Podcast "Bolsa de Mãe" - Episódio: Volta às Aulas com Crianças até 3 Anos
 
-- [Link da live no Youtube](https://www.youtube.com)
-- [Notion Template](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
+[Introdução - 0:00 a 0:30] 
+Som de risadas e música leve ao fundo 
+Fernanda: Olá, mamães e papais! Sejam muito bem-vindos ao "Bolsa de Mãe", o podcast que é como aquele café quentinho que você toma enquanto a criança faz arte na parede! Eu sou a Fernanda Magalhães e hoje vamos falar sobre um tema que faz o coração de toda mãe acelerar: a volta às aulas! E não, não estou falando da faculdade, mas sim da pré-escola para os nossos pequenos até 3 anos! Então, preparem-se para algumas dicas que vão deixar essa transição mais leve e divertida!
 
+[Dica 1 - 0:30 a 1:00] 
+Fernanda: Primeira dica: Crie uma rotina divertida! Sabe aquele momento em que você tenta acordar seu pequeno e ele se transforma em um mini polvo? Pois é! Para evitar essa batalha matinal, que tal criar uma rotina divertida? Coloque uma música animada para tocar enquanto vocês se arrumam. E, claro, faça uma competição amigável: quem se veste mais rápido? O prêmio? Um abraço bem apertado! 
 
-## 🛠️ Instruções de execução
+[Dica 2 - 1:00 a 1:30] 
+Fernanda: Segunda dica: Prepare um kit de sobrevivência! E não estou falando de um kit de primeiros socorros, mas sim de um kit de volta às aulas! Inclua itens como lanchinhos saudáveis, uma garrafinha de água estilosa e, claro, um brinquedinho ou livro que eles amam. Isso vai ajudar a acalmar os ânimos na hora de deixar a mamãe e entrar na sala de aula. E quem sabe, até fazer novos amigos!
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+[Dica 3 - 1:30 a 2:00] 
+Fernanda: E a terceira dica é: Converse sobre a escola como se fosse a Disney! Isso mesmo! Fale sobre as aventuras que eles vão viver, os novos amigos que vão fazer e as brincadeiras incríveis que vão acontecer. Use palavras mágicas e faça com que a escola pareça um lugar de diversão! Assim, eles vão ficar tão animados que vão querer ir até de pijama!
 
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+[Encerramento - 2:00 a 3:00] 
+Fernanda: E aí, mamães e papais, prontos para essa nova fase? Lembrem-se: a volta às aulas pode ser um momento de alegria e descobertas, tanto para os pequenos quanto para nós! Espero que essas dicas ajudem a tornar essa transição mais leve e cheia de sorrisos. Se você gostou do episódio, não esquece de compartilhar com outras mamães e papais que também estão nessa jornada! E, claro, fiquem ligados para mais dicas e histórias aqui no "Bolsa de Mãe". Até a próxima, e que a força da lancheira esteja com vocês! Risos e música de encerramento 
 
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Fim do episódio
