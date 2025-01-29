@@ -12,16 +12,18 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.AI](https://leonardo.ai)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [SoundCloud] (https://on.soundcloud.com/xBq6Y22csSXj4fBt8)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Leonardo.Ai Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
+- SoundCloud para publicar o podcast
 
 ## 📚 Roteiro 
 Roteiro para o Podcast "Bolsa de Mãe" - Episódio: Volta às Aulas com Crianças até 3 Anos
